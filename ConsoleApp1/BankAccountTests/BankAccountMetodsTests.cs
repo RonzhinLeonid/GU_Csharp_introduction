@@ -4,7 +4,7 @@ using Les6Ex1;
 
 namespace BankAccountTests
 {
-    public class UnitTest1
+    public class BankAccountMetodsTests
     {
         [Theory]
         [InlineData(10, 13123, AccountType.Calculated, 10, 13123, AccountType.Calculated)]
